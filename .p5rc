@@ -1,6 +1,7 @@
 {
   "name": "days",
   "projects": [
-    "day1"
+    "day1",
+    "day2"
   ]
 }
